@@ -4,3 +4,4 @@ Project_Infinity-X-1.4-dubai-20240823-0151-GAPPS-UNOFFICIAL.zip
 # PixelOS
 PixelOS_dubai-14.0-20240824-1518.zip
 PixelOS_dubai-14.0-20240909-0102.zip
+PixelOS_dubai-14.0-20241002-1040.zip
